@@ -1,12 +1,6 @@
-### Hi there 👋
+## Vinayak Goswami
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vini7148&&show_icons=true&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=141321 " width="63%">
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini7148&layout=compact&theme=great-gatsby" />
-</a>
+![Vinayak's github stats](https://github-readme-stats.vercel.app/api?username=vini7148&theme=dark&show_icons=true)
 
 <!--
 **vini7148/vini7148** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
