@@ -1,8 +1,11 @@
-## Vinayak Goswami
+# Vinayak Goswami - ![vini7148](
 
-![Vinayak's github stats](https://github-readme-stats.vercel.app/api?username=vini7148&theme=dark&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vini7148&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<!--![Vinayak's github stats](https://github-readme-stats.vercel.app/api?username=vini7148&theme=dark&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vini7148&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **vini7148/vini7148** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
