@@ -1,4 +1,4 @@
-# Vinayak Goswami - ![vini7148](
+# Vinayak Goswami - vini7148
 
 
 
