@@ -1,5 +1,5 @@
-<!-- # Vinayak Goswami - vini7148 -->
-```
+# Vinayak Goswami - vini7148
+<!-- ```
  _   _  _                              _                      _         _  ______ __     ___  _____ 
 | | | |(_)                            | |                    (_)       (_)|___  //  |   /   ||  _  |
 | | | | _  _ __    __ _  _   _   __ _ | | __  ______  __   __ _  _ __   _    / / `| |  / /| | \ V / 
@@ -29,7 +29,7 @@ ______  _____    _____ _             _            _
 \_____/\___/\_____\_____/ \____/ \__,_|\__\___|_| |_| 
                                                       
                                                       
-```
+``` -->
 
 <!--![Vinayak's github stats](https://github-readme-stats.vercel.app/api?username=vini7148&theme=dark&show_icons=true)
 
